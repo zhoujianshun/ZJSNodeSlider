@@ -1,6 +1,6 @@
 # ZJSNodeSlider
 
-![Screenshot](Screen Shot/Screen Shot.png)
+![Screenshot](Screenshot/Screenshot.png)
 
 ```
 ZJSNodeSlider *slider = [[ZJSNodeSlider alloc] init];
